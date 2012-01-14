@@ -1,0 +1,4 @@
+cron:
+- description: get url
+  url: /geturl
+  schedule: every 1 minutes
